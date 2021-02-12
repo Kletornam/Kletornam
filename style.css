@@ -1,0 +1,23 @@
+.active {
+    border: 1px solid rgb(85, 84, 84, 0.3);
+}
+
+table#listing {
+    width: 100%;
+}
+
+table#listing th {
+    background-color: #E7E7E7;
+    padding: 10px;
+    text-align: center;
+    border: solid 1px white;
+}
+
+footer {
+    background-color: #d6d6d6;
+    padding-top: 10px;
+}
+
+footer p {
+    text-align: center;
+}
