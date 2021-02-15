@@ -1,0 +1,15 @@
+ {
+    "books": [{
+        "title": "The science of Selling",
+        "author": "David Hofield",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41hmdrB36hL.SX150.jpg"
+    }, {
+        "title": "The science of Selling",
+        "author": "David Hofield",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41hmdrB36hL.SX150.jpg"
+    }, {
+        "title": "The science of Selling",
+        "author": "David Hofield",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41hmdrB36hL.SX150.jpg"
+    }]
+}
